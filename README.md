@@ -9,23 +9,23 @@ Para acessar os slides passados no primeiro dia, [clique aqui](https://github.co
 
 <a id="sumario"></a>
 # :books: Sumário
-1. [Requisitos](#requisitos)
-2. [Como abrir o Jupyter notebook usando o Anaconda?](#instalacao)
-3. [ Tutorial Google Colab](#google-colab)
+1. [ Tutorial Google Colab](#google-colab)
 
 
 ---
 
-<a name="requisitos"></a>
-## :computer: 1. Requisitos
+<a name="google-colab"></a>
+## :mag: 2. Tutorial Google Colab
 
-1. [Python 3.6 ou maior](https://www.python.org/downloads/)
-2. [Anaconda](https://docs.anaconda.com/anaconda/install/)
-3. [Pip](https://pip.pypa.io/en/stable/installing/)
-4. [Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)
+O Google Colab fornece todo o ambiente que pedimos para vocês instalarem de forma online, portanto você não precisará instalara nada! Mas é necessário ter uma conta da Google.
 
-**Para acessar o tutorial que criamos para instalar essas ferramentas, [clique aqui.](https://docs.google.com/presentation/d/1a-daFACGDqUo9pcitdguZpBEmiD4KzVdswhK7H56KNs/edit?usp=sharing)**
+<img src="https://github.com/aigirlsbr/Workshop-Machine-Learning/blob/main/figures/Captura%20de%20Tela%202021-04-04%20a%CC%80s%2014.40.39.png" width=600px>
+<img src="https://github.com/aigirlsbr/Workshop-Machine-Learning/blob/main/figures/Captura%20de%20Tela%202021-04-04%20a%CC%80s%2014.41.01.png" width=600px>
 
-*P.S: Caso você não conseguiu instalar um deles, poderá utilizar a versão online com o [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)!*
+Selecione o notebook da instrutora que você quer rodar!
 
+<img src="https://github.com/aigirlsbr/Workshop-Machine-Learning/blob/main/figures/Captura%20de%20Tela%202021-04-04%20a%CC%80s%2014.41.55.png" width=600px>
 
+<img src="https://github.com/aigirlsbr/Workshop-Machine-Learning/blob/main/figures/Captura%20de%20Tela%202021-04-04%20a%CC%80s%2014.42.24.png" width=600px>
+
+P.S: Para conhecer mais sobre o Google Colab, [clique aqui!](https://medium.com/@leonardopiechacaldeira/guia-explicativo-para-usar-o-google-colab-para-ciência-de-dados-86fc6458dd9c)
