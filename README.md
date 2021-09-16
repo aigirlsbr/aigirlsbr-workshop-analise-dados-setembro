@@ -1,15 +1,12 @@
 # Workshop de Análise de dados para :woman: :curly_haired_woman: :red_haired_woman: :woman_with_headscarf:
 
+<img src="https://www.questionpro.com/blog/wp-content/uploads/2020/03/3156627-2-768x512.jpg" width=850px>
+
 
 Sejam bem vindas ao nosso workshop de Análise de dados, esperamos bastante que aprendam e se divirtam junto conosco! Neste repositório você encontrará todos os materias que foram utilizados durante as aulas. :woman_technologist: :technologist: 
 
 
 Para acessar os slides passados no primeiro dia, [clique aqui](https://github.com/aigirlsbr/mini-curso-ai-girls/blob/main/Apresentac%CC%A7a%CC%83o/Abertura-%20Workshop%20ML%20para%20mulheres.pdf)
-
-
-<a id="sumario"></a>
-# :books: Sumário
-1. [ Tutorial Google Colab](#google-colab)
 
 
 ---
